@@ -1,6 +1,6 @@
 # Hey, I'm Kaushik 👋
 
-Software Engineer building full-stack web apps — currently working on helpdesk and ITSM tooling at a startup.
+Senior Software Engineer building full-stack web apps — currently worked on helpdesk, ITOM, ITAM, AMS, Workflow and ITSM tooling at a SAS.
 
 I care about clean APIs, real-time systems, and shipping things that actually work in production.
 
