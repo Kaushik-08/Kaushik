@@ -1,8 +1,6 @@
 # Hey, I'm Kaushik 👋
 
-Senior Software Engineer building full-stack web apps — currently worked on helpdesk, ITOM, ITAM, AMS, Workflow and ITSM tooling at a SAS.
-
-I care about clean APIs, real-time systems, and shipping things that actually work in production.
+Senior Software Engineer passionate about building scalable, production-ready SaaS applications. Experienced in developing Helpdesk, ITOM, ITAM, AMS, Workflow, and ITSM solutions, with a focus on clean architecture, well-designed APIs, real-time systems, and software that is reliable, maintainable, and built to scale.
 
 ---
 
